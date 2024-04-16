@@ -1,0 +1,11 @@
+directory,file_name,variable_name,variable_type,description
+data/,malirrm.rda,start,double, Beginning of survey.
+data/,malirrm.rda,end,double, End of survey.
+data/,malirrm.rda,date,double, Date.
+data/,malirrm.rda,region,character, Region.
+data/,malirrm.rda,cercle,character, Cercle.
+data/,malirrm.rda,quartier,character, Quartier.
+data/,malirrm.rda,marche,character, Market.
+data/,malirrm.rda,consent,character, Consent.
+data/,malirrm.rda,marches_produits,character, Market product.
+data/,malirrm.rda,marches_produits_alimentaires,double, Market product alimentaires.

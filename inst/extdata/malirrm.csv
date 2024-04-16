@@ -1,0 +1,75 @@
+start,end,date,region,cercle,quartier,marche,consent,marches_produits,marches_produits_alimentaires
+2023-07-16T10:05:49Z,2023-07-16T10:24:36Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-16T10:52:51Z,2023-07-16T11:18:41Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Alimentaires,1
+2023-07-16T12:06:22Z,2023-07-16T12:27:27Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Nfi,0
+2023-07-16T12:27:42Z,2023-07-16T12:46:42Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Nfi,0
+2023-07-16T09:53:11Z,2023-07-16T10:10:08Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Nfi,0
+2023-07-16T10:25:54Z,2023-07-16T10:42:09Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-16T11:01:59Z,2023-07-16T11:21:14Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Nfi,0
+2023-07-16T11:21:30Z,2023-07-16T11:40:07Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Alimentaires,1
+2023-07-16T12:18:58Z,2023-07-16T12:52:34Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires,1
+2023-07-16T09:37:00Z,2023-07-16T10:00:02Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-16T10:13:00Z,2023-07-16T10:33:40Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-16T11:13:48Z,2023-07-16T11:32:38Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Alimentaires Nfi,1
+2023-07-16T12:03:56Z,2023-07-16T12:24:05Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Nfi Hygiene,0
+2023-07-16T12:32:44Z,2023-07-16T13:06:11Z,2023-07-16T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires Semences,1
+2023-07-17T09:24:11Z,2023-07-17T09:45:21Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Medicaments,0
+2023-07-17T09:46:42Z,2023-07-17T10:10:49Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-17T10:45:56Z,2023-07-17T11:01:08Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Alimentaires,1
+2023-07-17T11:22:55Z,2023-07-17T11:44:32Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires,1
+2023-07-17T11:44:38Z,2023-07-17T12:33:27Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Nfi,0
+2023-07-17T09:19:33Z,2023-07-17T09:40:10Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-17T09:45:23Z,2023-07-17T10:04:13Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Nfi,0
+2023-07-17T10:32:41Z,2023-07-17T10:55:05Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-17T11:14:07Z,2023-07-17T11:33:51Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires,1
+2023-07-17T11:37:21Z,2023-07-17T11:55:50Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Nfi,0
+2023-07-17T09:16:56Z,2023-07-17T10:29:11Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-17T09:38:08Z,2023-07-17T10:02:53Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-17T10:09:31Z,2023-07-17T10:49:53Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Alimentaires,1
+2023-07-17T11:08:34Z,2023-07-17T11:37:53Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires,1
+2023-07-17T12:28:29Z,2023-07-17T12:50:18Z,2023-07-17T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires Nfi,1
+2023-07-17T11:53:14Z,2023-07-17T12:03:34Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Alimentaires Betails Semences Nfi Hygiene Materiaux Materiel_Scolaire,1
+2023-07-17T13:05:20Z,2023-07-17T13:16:58Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Alimentaires Semences,1
+2023-07-17T14:20:16Z,2023-07-17T14:32:50Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Alimentaires,1
+2023-07-17T16:17:52Z,2023-07-17T16:26:10Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Alimentaires Semences,1
+2023-07-17T11:14:38Z,2023-07-17T11:19:51Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires,1
+2023-07-17T11:52:15Z,2023-07-17T11:59:23Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Betails Semences Nfi Hygiene Medicaments Materiaux,1
+2023-07-17T12:04:29Z,2023-07-17T12:12:26Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Betails Nfi Hygiene Medicaments,1
+2023-07-17T12:17:49Z,2023-07-17T12:27:37Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Betails Nfi Hygiene Medicaments,1
+2023-07-17T12:32:27Z,2023-07-17T12:37:01Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Betails Nfi Medicaments,1
+2023-07-17T14:21:27Z,2023-07-17T14:29:02Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Betails Nfi Hygiene Medicaments,1
+2023-07-17T14:40:05Z,2023-07-17T14:48:54Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Betails,1
+2023-07-17T14:54:53Z,2023-07-17T15:00:46Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Betails Medicaments Nfi,1
+2023-07-17T15:07:05Z,2023-07-17T15:19:23Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Betails Medicaments,1
+2023-07-17T15:30:49Z,2023-07-17T15:41:32Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Betails Medicaments Nfi,1
+2023-07-17T10:57:21Z,2023-07-17T11:08:14Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Hygiene Medicaments Nfi,1
+2023-07-17T11:13:01Z,2023-07-17T11:18:46Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Hygiene,1
+2023-07-17T15:56:07Z,2023-07-17T16:03:20Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Nfi Hygiene,0
+2023-07-17T17:11:05Z,2023-07-17T17:23:22Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Hygiene Medicaments Nfi,1
+2023-07-17T17:29:17Z,2023-07-17T17:34:12Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Semences,0
+2023-07-17T17:34:43Z,2023-07-17T17:43:06Z,2023-07-17T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Semences,0
+2023-07-18T09:29:39Z,2023-07-18T09:50:50Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-18T10:06:29Z,2023-07-18T10:30:04Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-18T10:33:41Z,2023-07-18T10:55:13Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Nfi,0
+2023-07-18T11:17:43Z,2023-07-18T11:40:06Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires,1
+2023-07-18T11:41:15Z,2023-07-18T12:00:16Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires,1
+2023-07-18T09:33:18Z,2023-07-18T09:54:00Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-18T09:54:04Z,2023-07-18T10:14:50Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-18T10:23:27Z,2023-07-18T10:39:30Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Alimentaires Nfi,1
+2023-07-18T10:39:35Z,2023-07-18T10:56:37Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Betails Materiaux,0
+2023-07-18T12:09:29Z,2023-07-18T12:37:54Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires Semences,1
+2023-07-18T09:18:16Z,2023-07-18T09:37:00Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-18T09:55:33Z,2023-07-18T10:11:40Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Grand Marché Medina Coura,Oui,Alimentaires,1
+2023-07-18T10:26:14Z,2023-07-18T10:43:18Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Milieu Medina Coura,Oui,Nfi,0
+2023-07-18T11:19:48Z,2023-07-18T11:35:58Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Alimentaires,1
+2023-07-18T11:36:18Z,2023-07-18T11:52:12Z,2023-07-18T00:00:00Z,Mopti,Cercle À Mopti,Medina Coura,Marché Du Casier Medina Coura,Oui,Nfi,0
+2023-07-18T11:00:09Z,2023-07-18T11:06:26Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Semences Hygiene Materiel_Scolaire,1
+2023-07-18T11:09:10Z,2023-07-18T11:14:58Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Petit Marché Sosso Koira,Oui,Alimentaires Semences Hygiene Medicaments Materiel_Scolaire,1
+2023-07-18T11:24:50Z,2023-07-18T11:34:26Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Grand Marché Sosso Koira,Oui,Hygiene Medicaments,0
+2023-07-18T12:07:10Z,2023-07-18T12:10:33Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Sosso Koira,Grand Marché Sosso Koira,Oui,Materiel_Scolaire Alimentaires,1
+2023-07-18T11:03:14Z,2023-07-18T11:09:34Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Alimentaires Semences,1
+2023-07-18T11:09:41Z,2023-07-18T11:21:53Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Alimentaires Semences,1
+2023-07-18T11:22:02Z,2023-07-18T11:31:07Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Hygiene Materiel_Scolaire,0
+2023-07-18T11:49:10Z,2023-07-18T11:56:25Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Materiaux,0
+2023-07-18T11:57:35Z,2023-07-18T12:14:27Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Semences,0
+2023-07-18T12:19:17Z,2023-07-18T12:28:54Z,2023-07-18T00:00:00Z,Gao,Cercle À Gao,Château,Marché Château,Oui,Alimentaires,1
