@@ -2,7 +2,7 @@ Package: malirrm
 Type: Package
 Title: Mali RRM
 Version: 0.1.0
-Description: Mali RRM
+Description: RRM evaluation in Mali.
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
@@ -10,6 +10,7 @@ Language: en-GB
 Depends: 
     R (>= 2.10)
 Authors@R: 
-    person("Colin", "Walder", , "cwalder(at)ethz.ch", role = c("aut", "cre"),
-           comment = c(ORCID = "0009-0006-0969-1954"))
+    person("Colin", "Walder", ,"cwalder@ethz.ch", role = c("aut", "cre"),
+    comment = c(ORCID = "0009-0006-0969-1954"))
 Date: 2024-04-16
+RoxygenNote: 7.3.1

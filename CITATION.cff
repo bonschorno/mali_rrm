@@ -1,0 +1,24 @@
+# --------------------------------------------
+# CITATION file created with {cffr} R package
+# See also: https://docs.ropensci.org/cffr/
+# --------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "malirrm" in publications use:'
+type: software
+license: CC-BY-4.0
+title: 'malirrm: Mali RRM'
+version: 0.1.0
+abstract: RRM evaluation in Mali.
+authors:
+- family-names: Walder
+  given-names: Colin
+  email: cwalder@ethz.ch
+  orcid: https://orcid.org/0009-0006-0969-1954
+date-released: '2024-04-16'
+contact:
+- family-names: Walder
+  given-names: Colin
+  email: cwalder@ethz.ch
+  orcid: https://orcid.org/0009-0006-0969-1954
+

@@ -1,0 +1,11 @@
+
+bibentry(bibtype = "Misc",
+         key = "walder:2024",
+         title = "malirrm: Mali RRM",
+         author = person(given = "Colin",
+                         family = "Walder",
+                         email = "cwalder@ethz.ch",
+                         comment = c(ORCID = "0009-0006-0969-1954")),
+         year = "2024",
+         abstract = "RRM evaluation in Mali.",
+         version = "0.1.0")
