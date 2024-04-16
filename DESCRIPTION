@@ -1,13 +1,15 @@
 Package: malirrm
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Mali RRM
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: Mali RRM
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
+Language: en-GB
 Depends: 
     R (>= 2.10)
+Authors@R: 
+    person("Colin", "Walder", , "cwalder(at)ethz.ch", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0006-0969-1954"))
+Date: 2024-04-16
